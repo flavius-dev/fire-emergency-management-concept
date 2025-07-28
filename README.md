@@ -119,7 +119,7 @@ Bachelor of Engineering – University of Petroșani, 2023
 
 ## 🌍 Live Demo
 
-> *(Enable GitHub Pages to view live frontend)*  
+ 
 🔗 [Demo on GitHub Pages](https://flavius-dev.github.io/fire-emergency-management-concept/)
 
 ---
